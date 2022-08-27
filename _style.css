@@ -1,0 +1,12 @@
+body {
+  text-align: center;
+  background-color: rgb(213, 205, 205);
+  color: rgb(61, 50, 214);
+}
+div {
+  font-size: 60;
+  font-family: Verdana;
+}
+div #testClock {
+  font-family: Orbitron;
+}
