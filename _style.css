@@ -1,7 +1,16 @@
+@font-face {
+  font-family: 'vazir';
+  src: url('fonts/vazir.eot'); 
+  src: url('fonts/vazir.ttf')  format('truetype'), 
+       url('fonts/vazir.woff2') format('woff2'), 
+       url('fonts/vazir.woff') format('woff');
+}
+
 body {
   text-align: center;
   background-color: rgb(213, 205, 205);
   color: rgb(61, 50, 214);
+  font-family: 'vazir';
 }
 div {
   font-size: 60;
